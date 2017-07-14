@@ -1,0 +1,646 @@
+Country,Status,Process,Age Group,Sex, POC 
+Cuba,REF,A,18 - 59 years,Male, 1 
+Dominica,ASR,A,18 - 59 years,Female, 2 
+Dominican Republic,ASR,A,18 - 59 years,Female, 4 
+Kazakhstan,ASR,A,0 - 4 years,Female, 2 
+Kazakhstan,ASR,A,0 - 4 years,Male, 3 
+Kazakhstan,ASR,A,12 - 17 years,Female, 1 
+Kazakhstan,ASR,A,12 - 17 years,Male, 1 
+Kazakhstan,ASR,A,18 - 59 years,Female, 16 
+Kazakhstan,ASR,A,18 - 59 years,Male, 16 
+Kazakhstan,ASR,A,5 - 11 years,Female, 6 
+Kazakhstan,ASR,A,5 - 11 years,Male, 1 
+Kyrgyzstan,ASR,A,0 - 4 years,Female, 3 
+Kyrgyzstan,ASR,A,0 - 4 years,Male, 2 
+Kyrgyzstan,ASR,A,12 - 17 years,Female, 4 
+Kyrgyzstan,ASR,A,12 - 17 years,Male, 3 
+Kyrgyzstan,ASR,A,18 - 59 years,Female, 59 
+Kyrgyzstan,ASR,A,18 - 59 years,Male, 31 
+Kyrgyzstan,ASR,A,5 - 11 years,Female, 3 
+Kyrgyzstan,ASR,A,5 - 11 years,Male, 9 
+Kyrgyzstan,ASR,A,60+ years,Male, 1 
+Kyrgyzstan,REF,A,0 - 4 years,Female, 4 
+Kyrgyzstan,REF,A,0 - 4 years,Male, 3 
+Kyrgyzstan,REF,A,12 - 17 years,Female, 12 
+Kyrgyzstan,REF,A,12 - 17 years,Male, 10 
+Kyrgyzstan,REF,A,18 - 59 years,Female, 49 
+Kyrgyzstan,REF,A,18 - 59 years,Male, 53 
+Kyrgyzstan,REF,A,5 - 11 years,Female, 20 
+Kyrgyzstan,REF,A,5 - 11 years,Male, 32 
+Kyrgyzstan,REF,A,60+ years,Female, 5 
+Kyrgyzstan,REF,A,60+ years,Male, 2 
+Tajikistan,ASR,A,0 - 4 years,Female, 8 
+Tajikistan,ASR,A,0 - 4 years,Male, 19 
+Tajikistan,ASR,A,12 - 17 years,Female, 7 
+Tajikistan,ASR,A,12 - 17 years,Male, 4 
+Tajikistan,ASR,A,18 - 59 years,Female, 55 
+Tajikistan,ASR,A,18 - 59 years,Male, 93 
+Tajikistan,ASR,A,5 - 11 years,Female, 24 
+Tajikistan,ASR,A,5 - 11 years,Male, 27 
+Tajikistan,REF,A,12 - 17 years,Female, 1 
+Tajikistan,REF,A,12 - 17 years,Male, 1 
+Tajikistan,REF,A,18 - 59 years,Female, 2 
+Tajikistan,REF,A,18 - 59 years,Male, 1 
+Tajikistan,REF,A,5 - 11 years,Male, 3 
+Turkmenistan,ASR,A,0 - 4 years,Female, 6 
+Turkmenistan,ASR,A,0 - 4 years,Male, 10 
+Turkmenistan,ASR,A,12 - 17 years,Female, 2 
+Turkmenistan,ASR,A,12 - 17 years,Male, 2 
+Turkmenistan,ASR,A,18 - 59 years,Female, 437 
+Turkmenistan,ASR,A,18 - 59 years,Male, 122 
+Turkmenistan,ASR,A,5 - 11 years,Female, 1 
+Turkmenistan,ASR,A,5 - 11 years,Male, 6 
+Turkmenistan,ASR,A,60+ years,Female, 1 
+Turkmenistan,ASR,H,18 - 59 years,Male, 1 
+Turkmenistan,REF,A,18 - 59 years,Female, 2 
+Turkmenistan,REF,A,18 - 59 years,Male, 4 
+Uzbekistan,ASR,A,0 - 4 years,Female, 22 
+Uzbekistan,ASR,A,0 - 4 years,Male, 27 
+Uzbekistan,ASR,A,12 - 17 years,Female, 18 
+Uzbekistan,ASR,A,12 - 17 years,Male, 27 
+Uzbekistan,ASR,A,18 - 59 years,Female, 330 
+Uzbekistan,ASR,A,18 - 59 years,Male, 129 
+Uzbekistan,ASR,A,5 - 11 years,Female, 37 
+Uzbekistan,ASR,A,5 - 11 years,Male, 39 
+Uzbekistan,ASR,A,60+ years,Female, 4 
+Uzbekistan,REF,A,0 - 4 years,Male, 2 
+Uzbekistan,REF,A,12 - 17 years,Female, 4 
+Uzbekistan,REF,A,12 - 17 years,Male, 3 
+Uzbekistan,REF,A,18 - 59 years,Female, 18 
+Uzbekistan,REF,A,18 - 59 years,Male, 15 
+Uzbekistan,REF,A,5 - 11 years,Female, 3 
+Uzbekistan,REF,A,5 - 11 years,Male, 3 
+Romania,ASR,A,12 - 17 years,Female, 1 
+Romania,ASR,A,18 - 59 years,Female, 2 
+Romania,ASR,A,18 - 59 years,Male, 1 
+Turkey,REF,A,0 - 4 years,Female, 1 
+Turkey,REF,A,5 - 11 years,Male, 1 
+Cambodia,ASR,A,18 - 59 years,Male, 1 
+China,ASR,A,0 - 4 years,Female, 9 
+China,ASR,A,0 - 4 years,Male, 17 
+China,ASR,A,12 - 17 years,Female, 2 
+China,ASR,A,12 - 17 years,Male, 11 
+China,ASR,A,18 - 59 years,Female, 41 
+China,ASR,A,18 - 59 years,Male, 73 
+China,ASR,A,5 - 11 years,Female, 10 
+China,ASR,A,5 - 11 years,Male, 13 
+China,ASR,A,60+ years,Female, 1 
+China,ASR,A,60+ years,Male, 3 
+China,REF,A,18 - 59 years,Female, 2 
+China,REF,A,18 - 59 years,Male, 10 
+China,REF,A,60+ years,Male, 1 
+Indonesia,ASR,A,12 - 17 years,Female, 1 
+Indonesia,ASR,A,18 - 59 years,Female, 1 
+Malaysia,ASR,A,0 - 4 years,Female, 2 
+Malaysia,ASR,A,18 - 59 years,Female, 1 
+Malaysia,ASR,A,5 - 11 years,Female, 1 
+Philippines,ASR,A,18 - 59 years,Female, 6 
+Philippines,REF,A,0 - 4 years,Male, 1 
+Philippines,REF,A,18 - 59 years,Female, 3 
+Philippines,REF,A,5 - 11 years,Female, 1 
+Tibet Autonomous Region (China),ASR,A,18 - 59 years,Female, 1 
+Azerbaijan,REF,A,18 - 59 years,Female, 2 
+Azerbaijan,REF,A,5 - 11 years,Male, 2 
+Belarus,ASR,A,18 - 59 years,Male, 1 
+Russian Federation,ASR,A,12 - 17 years,Male, 1 
+Russian Federation,ASR,A,18 - 59 years,Female, 2 
+Russian Federation,ASR,A,18 - 59 years,Male, 1 
+Russian Federation,ASR,A,5 - 11 years,Female, 1 
+Russian Federation,ASR,A,5 - 11 years,Male, 2 
+Russian Federation,REF,A,12 - 17 years,Male, 1 
+Russian Federation,REF,A,18 - 59 years,Female, 3 
+Russian Federation,REF,A,18 - 59 years,Male, 1 
+Ukraine,ASR,A,18 - 59 years,Female, 1 
+Ukraine,REF,A,18 - 59 years,Female, 1 
+Djibouti,ASR,A,18 - 59 years,Female, 3 
+Djibouti,ASR,A,18 - 59 years,Male, 3 
+Eritrea,ASR,A,0 - 4 years,Female, 4 
+Eritrea,ASR,A,0 - 4 years,Male, 2 
+Eritrea,ASR,A,12 - 17 years,Female, 1 
+Eritrea,ASR,A,18 - 59 years,Female, 58 
+Eritrea,ASR,A,18 - 59 years,Male, 17 
+Eritrea,REF,A,0 - 4 years,Female, 3 
+Eritrea,REF,A,0 - 4 years,Male, 3 
+Eritrea,REF,A,12 - 17 years,Female, 3 
+Eritrea,REF,A,12 - 17 years,Male, 1 
+Eritrea,REF,A,18 - 59 years,Female, 32 
+Eritrea,REF,A,18 - 59 years,Male, 26 
+Eritrea,REF,A,5 - 11 years,Female, 5 
+Eritrea,REF,A,5 - 11 years,Male, 5 
+Ethiopia,ASR,A,0 - 4 years,Female, 2 
+Ethiopia,ASR,A,0 - 4 years,Male, 3 
+Ethiopia,ASR,A,12 - 17 years,Female, 2 
+Ethiopia,ASR,A,18 - 59 years,Female, 121 
+Ethiopia,ASR,A,18 - 59 years,Male, 82 
+Ethiopia,ASR,A,5 - 11 years,Female, 3 
+Ethiopia,ASR,A,5 - 11 years,Male, 1 
+Ethiopia,ASR,A,60+ years,Male, 1 
+Ethiopia,REF,A,0 - 4 years,Female, 4 
+Ethiopia,REF,A,0 - 4 years,Male, 4 
+Ethiopia,REF,A,12 - 17 years,Female, 6 
+Ethiopia,REF,A,12 - 17 years,Male, 4 
+Ethiopia,REF,A,18 - 59 years,Female, 37 
+Ethiopia,REF,A,18 - 59 years,Male, 19 
+Ethiopia,REF,A,5 - 11 years,Female, 6 
+Ethiopia,REF,A,5 - 11 years,Male, 8 
+Ethiopia,REF,A,60+ years,Female, 2 
+Ethiopia,REF,H,18 - 59 years,Female, 1 
+Kenya,ASR,A,18 - 59 years,Female, 6 
+Kenya,REF,A,18 - 59 years,Female, 1 
+Somalia,ASR,A,0 - 4 years,Female, 26 
+Somalia,ASR,A,0 - 4 years,Male, 36 
+Somalia,ASR,A,12 - 17 years,Female, 52 
+Somalia,ASR,A,12 - 17 years,Male, 45 
+Somalia,ASR,A,18 - 59 years,Female, 659 
+Somalia,ASR,A,18 - 59 years,Male, 677 
+Somalia,ASR,A,5 - 11 years,Female, 60 
+Somalia,ASR,A,5 - 11 years,Male, 52 
+Somalia,ASR,A,60+ years,Female, 17 
+Somalia,ASR,A,60+ years,Male, 19 
+Somalia,REF,A,0 - 4 years,Female, 60 
+Somalia,REF,A,0 - 4 years,Male, 63 
+Somalia,REF,A,12 - 17 years,Female, 158 
+Somalia,REF,A,12 - 17 years,Male, 167 
+Somalia,REF,A,18 - 59 years,Female, 747 
+Somalia,REF,A,18 - 59 years,Male, 630 
+Somalia,REF,A,5 - 11 years,Female, 139 
+Somalia,REF,A,5 - 11 years,Male, 175 
+Somalia,REF,A,60+ years,Female, 34 
+Somalia,REF,A,60+ years,Male, 26 
+"South Sudan, The Republic of",ASR,A,18 - 59 years,Female, 1 
+"South Sudan, The Republic of",ASR,A,18 - 59 years,Male, 2 
+"South Sudan, The Republic of",REF,A,0 - 4 years,Male, 1 
+"South Sudan, The Republic of",REF,A,12 - 17 years,Male, 1 
+"South Sudan, The Republic of",REF,A,18 - 59 years,Female, 1 
+"South Sudan, The Republic of",REF,A,18 - 59 years,Male, 1 
+Sudan,ASR,A,0 - 4 years,Female, 3 
+Sudan,ASR,A,0 - 4 years,Male, 4 
+Sudan,ASR,A,12 - 17 years,Female, 1 
+Sudan,ASR,A,12 - 17 years,Male, 2 
+Sudan,ASR,A,18 - 59 years,Female, 18 
+Sudan,ASR,A,18 - 59 years,Male, 40 
+Sudan,ASR,A,5 - 11 years,Female, 5 
+Sudan,ASR,A,5 - 11 years,Male, 10 
+Sudan,ASR,A,60+ years,Male, 2 
+Sudan,REF,A,0 - 4 years,Female, 16 
+Sudan,REF,A,0 - 4 years,Male, 18 
+Sudan,REF,A,12 - 17 years,Female, 15 
+Sudan,REF,A,12 - 17 years,Male, 11 
+Sudan,REF,A,18 - 59 years,Female, 53 
+Sudan,REF,A,18 - 59 years,Male, 126 
+Sudan,REF,A,5 - 11 years,Female, 17 
+Sudan,REF,A,5 - 11 years,Male, 17 
+Sudan,REF,A,60+ years,Male, 4 
+Uganda,ASR,A,0 - 4 years,Female, 6 
+Uganda,ASR,A,0 - 4 years,Male, 9 
+Uganda,ASR,A,18 - 59 years,Female, 437 
+Uganda,ASR,A,18 - 59 years,Male, 115 
+Uganda,ASR,A,5 - 11 years,Female, 2 
+Uganda,REF,A,0 - 4 years,Female, 2 
+Uganda,REF,A,0 - 4 years,Male, 2 
+Uganda,REF,A,18 - 59 years,Female, 15 
+Uganda,REF,A,18 - 59 years,Male, 6 
+Burundi,ASR,A,12 - 17 years,Male, 2 
+Burundi,ASR,A,18 - 59 years,Female, 6 
+Burundi,ASR,A,18 - 59 years,Male, 18 
+Burundi,REF,A,18 - 59 years,Female, 4 
+Burundi,REF,A,18 - 59 years,Male, 1 
+"Congo, Republic of the",ASR,A,0 - 4 years,Female, 1 
+"Congo, Republic of the",ASR,A,0 - 4 years,Male, 3 
+"Congo, Republic of the",ASR,A,12 - 17 years,Female, 4 
+"Congo, Republic of the",ASR,A,12 - 17 years,Male, 2 
+"Congo, Republic of the",ASR,A,18 - 59 years,Female, 42 
+"Congo, Republic of the",ASR,A,18 - 59 years,Male, 64 
+"Congo, Republic of the",ASR,A,5 - 11 years,Female, 1 
+"Congo, Republic of the",ASR,A,5 - 11 years,Male, 1 
+"Congo, Republic of the",REF,A,0 - 4 years,Female, 1 
+"Congo, Republic of the",REF,A,0 - 4 years,Male, 1 
+"Congo, Republic of the",REF,A,18 - 59 years,Female, 2 
+"Congo, Republic of the",REF,A,18 - 59 years,Male, 2 
+Democratic Republic of the Congo,ASR,A,0 - 4 years,Female, 4 
+Democratic Republic of the Congo,ASR,A,0 - 4 years,Male, 3 
+Democratic Republic of the Congo,ASR,A,12 - 17 years,Male, 3 
+Democratic Republic of the Congo,ASR,A,18 - 59 years,Female, 44 
+Democratic Republic of the Congo,ASR,A,18 - 59 years,Male, 81 
+Democratic Republic of the Congo,ASR,A,5 - 11 years,Female, 3 
+Democratic Republic of the Congo,ASR,A,5 - 11 years,Male, 1 
+Democratic Republic of the Congo,ASR,A,60+ years,Male, 1 
+Democratic Republic of the Congo,REF,A,0 - 4 years,Female, 1 
+Democratic Republic of the Congo,REF,A,0 - 4 years,Male, 4 
+Democratic Republic of the Congo,REF,A,12 - 17 years,Female, 3 
+Democratic Republic of the Congo,REF,A,12 - 17 years,Male, 1 
+Democratic Republic of the Congo,REF,A,18 - 59 years,Female, 19 
+Democratic Republic of the Congo,REF,A,18 - 59 years,Male, 20 
+Democratic Republic of the Congo,REF,A,5 - 11 years,Female, 3 
+Democratic Republic of the Congo,REF,A,5 - 11 years,Male, 2 
+Democratic Republic of the Congo,REF,A,60+ years,Female, 2 
+Rwanda,ASR,A,18 - 59 years,Female, 4 
+United Republic of Tanzania,ASR,A,18 - 59 years,Female, 1 
+United Republic of Tanzania,ASR,A,18 - 59 years,Male, 1 
+Bahrain,ASR,A,18 - 59 years,Female, 1 
+Bahrain,ASR,A,5 - 11 years,Female, 1 
+Iraq,ASR,A,0 - 4 years,Female," 4,961 "
+Iraq,ASR,A,0 - 4 years,Male," 5,262 "
+Iraq,ASR,A,12 - 17 years,Female," 5,313 "
+Iraq,ASR,A,12 - 17 years,Male," 6,310 "
+Iraq,ASR,A,18 - 59 years,Female," 22,636 "
+Iraq,ASR,A,18 - 59 years,Male," 34,402 "
+Iraq,ASR,A,5 - 11 years,Female," 8,972 "
+Iraq,ASR,A,5 - 11 years,Male," 9,668 "
+Iraq,ASR,A,60+ years,Female," 1,388 "
+Iraq,ASR,A,60+ years,Male," 1,406 "
+Iraq,ASR,H,0 - 4 years,Male, 1 
+Iraq,ASR,H,12 - 17 years,Female, 2 
+Iraq,ASR,H,12 - 17 years,Male, 2 
+Iraq,ASR,H,18 - 59 years,Female, 3 
+Iraq,ASR,H,18 - 59 years,Male, 9 
+Iraq,ASR,H,5 - 11 years,Female, 3 
+Iraq,ASR,H,5 - 11 years,Male, 4 
+Iraq,REF,A,0 - 4 years,Female," 1,290 "
+Iraq,REF,A,0 - 4 years,Male," 1,387 "
+Iraq,REF,A,12 - 17 years,Female," 1,902 "
+Iraq,REF,A,12 - 17 years,Male," 2,221 "
+Iraq,REF,A,18 - 59 years,Female," 8,529 "
+Iraq,REF,A,18 - 59 years,Male," 10,561 "
+Iraq,REF,A,5 - 11 years,Female," 2,903 "
+Iraq,REF,A,5 - 11 years,Male," 3,088 "
+Iraq,REF,A,60+ years,Female, 819 
+Iraq,REF,A,60+ years,Male, 729 
+Iraq,REF,H,0 - 4 years,Female, 1 
+Iraq,REF,H,0 - 4 years,Male, 3 
+Iraq,REF,H,12 - 17 years,Female, 2 
+Iraq,REF,H,12 - 17 years,Male, 2 
+Iraq,REF,H,18 - 59 years,Female, 11 
+Iraq,REF,H,18 - 59 years,Male, 12 
+Iraq,REF,H,5 - 11 years,Female, 7 
+Iraq,REF,H,5 - 11 years,Male, 4 
+Iraq,REF,H,60+ years,Male, 2 
+Israel,ASR,A,18 - 59 years,Female, 1 
+Israel,ASR,A,18 - 59 years,Male, 1 
+Jordan,ASR,A,0 - 4 years,Female, 3 
+Jordan,ASR,A,0 - 4 years,Male, 1 
+Jordan,ASR,A,18 - 59 years,Female, 33 
+Jordan,ASR,A,18 - 59 years,Male, 9 
+Jordan,ASR,A,5 - 11 years,Male, 3 
+Jordan,ASR,A,60+ years,Female, 2 
+Jordan,ASR,A,60+ years,Male, 2 
+Jordan,REF,A,18 - 59 years,Female, 29 
+Jordan,REF,A,18 - 59 years,Male, 1 
+Jordan,REF,A,5 - 11 years,Female, 1 
+Jordan,REF,A,60+ years,Female, 2 
+Kuwait,ASR,A,0 - 4 years,Female, 1 
+Kuwait,ASR,A,18 - 59 years,Female, 1 
+Kuwait,ASR,A,18 - 59 years,Male, 1 
+Kuwait,ASR,A,5 - 11 years,Female, 1 
+Lebanon,ASR,A,0 - 4 years,Female, 1 
+Lebanon,ASR,A,12 - 17 years,Female, 1 
+Lebanon,ASR,A,12 - 17 years,Male, 1 
+Lebanon,ASR,A,18 - 59 years,Female, 12 
+Lebanon,ASR,A,18 - 59 years,Male, 16 
+Lebanon,ASR,A,5 - 11 years,Male, 3 
+Lebanon,REF,A,12 - 17 years,Female, 1 
+Lebanon,REF,A,12 - 17 years,Male, 1 
+Lebanon,REF,A,18 - 59 years,Female, 6 
+Lebanon,REF,A,18 - 59 years,Male, 4 
+Lebanon,REF,A,5 - 11 years,Female, 1 
+Lebanon,REF,A,60+ years,Female, 1 
+Occupied Palestinian Territory,ASR,A,0 - 4 years,Female, 26 
+Occupied Palestinian Territory,ASR,A,0 - 4 years,Male, 19 
+Occupied Palestinian Territory,ASR,A,12 - 17 years,Female, 35 
+Occupied Palestinian Territory,ASR,A,12 - 17 years,Male, 45 
+Occupied Palestinian Territory,ASR,A,18 - 59 years,Female, 167 
+Occupied Palestinian Territory,ASR,A,18 - 59 years,Male, 264 
+Occupied Palestinian Territory,ASR,A,5 - 11 years,Female, 42 
+Occupied Palestinian Territory,ASR,A,5 - 11 years,Male, 55 
+Occupied Palestinian Territory,ASR,A,60+ years,Female, 18 
+Occupied Palestinian Territory,ASR,A,60+ years,Male, 24 
+Occupied Palestinian Territory,REF,A,0 - 4 years,Female, 37 
+Occupied Palestinian Territory,REF,A,0 - 4 years,Male, 38 
+Occupied Palestinian Territory,REF,A,12 - 17 years,Female, 49 
+Occupied Palestinian Territory,REF,A,12 - 17 years,Male, 51 
+Occupied Palestinian Territory,REF,A,18 - 59 years,Female, 332 
+Occupied Palestinian Territory,REF,A,18 - 59 years,Male, 344 
+Occupied Palestinian Territory,REF,A,5 - 11 years,Female, 62 
+Occupied Palestinian Territory,REF,A,5 - 11 years,Male, 81 
+Occupied Palestinian Territory,REF,A,60+ years,Female, 60 
+Occupied Palestinian Territory,REF,A,60+ years,Male, 64 
+Saudi Arabia,ASR,A,18 - 59 years,Male, 1 
+Saudi Arabia,REF,A,18 - 59 years,Female, 4 
+United Arab Emirates,ASR,A,0 - 4 years,Female, 2 
+United Arab Emirates,ASR,A,0 - 4 years,Male, 1 
+United Arab Emirates,ASR,A,12 - 17 years,Male, 1 
+United Arab Emirates,ASR,A,18 - 59 years,Female, 3 
+United Arab Emirates,ASR,A,18 - 59 years,Male, 6 
+United Arab Emirates,ASR,A,5 - 11 years,Female, 3 
+United Arab Emirates,ASR,A,5 - 11 years,Male, 3 
+United Arab Emirates,ASR,A,60+ years,Male, 1 
+United Arab Emirates,REF,A,0 - 4 years,Male, 1 
+United Arab Emirates,REF,A,12 - 17 years,Female, 1 
+United Arab Emirates,REF,A,18 - 59 years,Female, 1 
+United Arab Emirates,REF,A,18 - 59 years,Male, 1 
+United Arab Emirates,REF,A,5 - 11 years,Male, 2 
+Yemen,ASR,A,0 - 4 years,Female, 9 
+Yemen,ASR,A,0 - 4 years,Male, 14 
+Yemen,ASR,A,12 - 17 years,Female, 10 
+Yemen,ASR,A,12 - 17 years,Male, 12 
+Yemen,ASR,A,18 - 59 years,Female, 60 
+Yemen,ASR,A,18 - 59 years,Male, 119 
+Yemen,ASR,A,5 - 11 years,Female, 9 
+Yemen,ASR,A,5 - 11 years,Male, 12 
+Yemen,ASR,A,60+ years,Female, 2 
+Yemen,ASR,A,60+ years,Male, 2 
+Yemen,REF,A,0 - 4 years,Female, 2 
+Yemen,REF,A,0 - 4 years,Male, 9 
+Yemen,REF,A,12 - 17 years,Female, 10 
+Yemen,REF,A,12 - 17 years,Male, 13 
+Yemen,REF,A,18 - 59 years,Female, 41 
+Yemen,REF,A,18 - 59 years,Male, 52 
+Yemen,REF,A,5 - 11 years,Female, 10 
+Yemen,REF,A,5 - 11 years,Male, 17 
+Yemen,REF,A,60+ years,Female, 2 
+Yemen,REF,A,60+ years,Male, 1 
+Algeria,ASR,A,0 - 4 years,Female, 1 
+Algeria,ASR,A,12 - 17 years,Female, 1 
+Algeria,ASR,A,18 - 59 years,Female, 10 
+Algeria,ASR,A,18 - 59 years,Male, 8 
+Algeria,REF,A,18 - 59 years,Female, 2 
+Algeria,REF,A,18 - 59 years,Male, 1 
+Algeria,REF,A,5 - 11 years,Female, 1 
+Egypt,ASR,A,0 - 4 years,Female, 5 
+Egypt,ASR,A,0 - 4 years,Male, 9 
+Egypt,ASR,A,12 - 17 years,Female, 5 
+Egypt,ASR,A,12 - 17 years,Male, 12 
+Egypt,ASR,A,18 - 59 years,Female, 35 
+Egypt,ASR,A,18 - 59 years,Male, 82 
+Egypt,ASR,A,5 - 11 years,Female, 21 
+Egypt,ASR,A,5 - 11 years,Male, 18 
+Egypt,ASR,A,60+ years,Female, 2 
+Egypt,ASR,A,60+ years,Male, 5 
+Egypt,REF,A,0 - 4 years,Female, 2 
+Egypt,REF,A,0 - 4 years,Male, 3 
+Egypt,REF,A,12 - 17 years,Female, 2 
+Egypt,REF,A,12 - 17 years,Male, 3 
+Egypt,REF,A,18 - 59 years,Female, 14 
+Egypt,REF,A,18 - 59 years,Male, 18 
+Egypt,REF,A,5 - 11 years,Female, 3 
+Egypt,REF,A,5 - 11 years,Male, 3 
+Egypt,REF,A,60+ years,Female, 2 
+Egypt,REF,A,60+ years,Male, 1 
+Libya,ASR,A,0 - 4 years,Female, 4 
+Libya,ASR,A,0 - 4 years,Male, 3 
+Libya,ASR,A,12 - 17 years,Female, 2 
+Libya,ASR,A,12 - 17 years,Male, 4 
+Libya,ASR,A,18 - 59 years,Female, 14 
+Libya,ASR,A,18 - 59 years,Male, 19 
+Libya,ASR,A,5 - 11 years,Female, 5 
+Libya,ASR,A,5 - 11 years,Male, 8 
+Libya,ASR,A,60+ years,Male, 2 
+Libya,REF,A,0 - 4 years,Female, 2 
+Libya,REF,A,0 - 4 years,Male, 1 
+Libya,REF,A,12 - 17 years,Female, 2 
+Libya,REF,A,12 - 17 years,Male, 2 
+Libya,REF,A,18 - 59 years,Female, 7 
+Libya,REF,A,18 - 59 years,Male, 6 
+Libya,REF,A,5 - 11 years,Female, 2 
+Libya,REF,A,5 - 11 years,Male, 1 
+Mauritania,ASR,A,18 - 59 years,Male, 1 
+Mauritania,REF,A,0 - 4 years,Female, 3 
+Mauritania,REF,A,18 - 59 years,Female, 2 
+Mauritania,REF,A,18 - 59 years,Male, 1 
+Mauritania,REF,A,5 - 11 years,Male, 2 
+Morocco,ASR,A,0 - 4 years,Female, 5 
+Morocco,ASR,A,0 - 4 years,Male, 1 
+Morocco,ASR,A,12 - 17 years,Female, 1 
+Morocco,ASR,A,18 - 59 years,Female, 41 
+Morocco,ASR,A,18 - 59 years,Male, 16 
+Morocco,ASR,A,5 - 11 years,Female, 3 
+Morocco,ASR,A,5 - 11 years,Male, 2 
+Morocco,REF,A,0 - 4 years,Female, 2 
+Morocco,REF,A,0 - 4 years,Male, 1 
+Morocco,REF,A,12 - 17 years,Female, 3 
+Morocco,REF,A,12 - 17 years,Male, 2 
+Morocco,REF,A,18 - 59 years,Female, 16 
+Morocco,REF,A,18 - 59 years,Male, 1 
+Morocco,REF,A,5 - 11 years,Female, 2 
+Morocco,REF,A,5 - 11 years,Male, 2 
+Tunisia,ASR,A,0 - 4 years,Male, 3 
+Tunisia,ASR,A,12 - 17 years,Male, 1 
+Tunisia,ASR,A,18 - 59 years,Female, 15 
+Tunisia,ASR,A,18 - 59 years,Male, 7 
+Tunisia,ASR,A,5 - 11 years,Female, 1 
+Tunisia,ASR,A,5 - 11 years,Male, 1 
+Tunisia,REF,A,0 - 4 years,Female, 1 
+Tunisia,REF,A,0 - 4 years,Male, 2 
+Tunisia,REF,A,18 - 59 years,Female, 2 
+Tunisia,REF,A,18 - 59 years,Male, 3 
+Tunisia,REF,A,5 - 11 years,Female, 1 
+Angola,ASR,A,18 - 59 years,Female, 1 
+Angola,ASR,A,18 - 59 years,Male, 4 
+Angola,REF,A,0 - 4 years,Male, 1 
+Angola,REF,A,18 - 59 years,Female, 1 
+Angola,REF,A,18 - 59 years,Male, 1 
+Zimbabwe,ASR,A,0 - 4 years,Female, 1 
+Zimbabwe,ASR,A,12 - 17 years,Female, 2 
+Zimbabwe,ASR,A,18 - 59 years,Female, 6 
+Zimbabwe,ASR,A,18 - 59 years,Male, 7 
+Zimbabwe,ASR,A,5 - 11 years,Female, 2 
+Zimbabwe,ASR,A,5 - 11 years,Male, 3 
+Chile,ASR,A,5 - 11 years,Female, 1 
+Peru,ASR,A,18 - 59 years,Female, 1 
+Suriname,ASR,A,18 - 59 years,Female, 1 
+Bangladesh,ASR,A,18 - 59 years,Male, 159 
+Bangladesh,ASR,A,5 - 11 years,Male, 1 
+Bangladesh,REF,A,18 - 59 years,Male, 1 
+India,ASR,A,18 - 59 years,Female, 2 
+India,ASR,A,18 - 59 years,Male, 1 
+India,REF,A,18 - 59 years,Female, 1 
+India,REF,A,18 - 59 years,Male, 1 
+Myanmar,ASR,A,18 - 59 years,Male, 15 
+Myanmar,REF,A,18 - 59 years,Male, 1 
+Nepal,ASR,A,18 - 59 years,Male, 5 
+Sri Lanka,ASR,A,18 - 59 years,Female, 2 
+Sri Lanka,ASR,A,18 - 59 years,Male, 4 
+Sri Lanka,ASR,A,5 - 11 years,Female, 1 
+Sri Lanka,REF,A,12 - 17 years,Male, 1 
+Sri Lanka,REF,A,18 - 59 years,Female, 4 
+Sri Lanka,REF,A,18 - 59 years,Male, 9 
+Sri Lanka,REF,A,5 - 11 years,Female, 1 
+Afghanistan,ASR,A,0 - 4 years,Female," 4,427 "
+Afghanistan,ASR,A,0 - 4 years,Male," 4,746 "
+Afghanistan,ASR,A,12 - 17 years,Female," 4,575 "
+Afghanistan,ASR,A,12 - 17 years,Male," 6,823 "
+Afghanistan,ASR,A,18 - 59 years,Female," 21,983 "
+Afghanistan,ASR,A,18 - 59 years,Male," 72,066 "
+Afghanistan,ASR,A,5 - 11 years,Female," 7,600 "
+Afghanistan,ASR,A,5 - 11 years,Male," 8,797 "
+Afghanistan,ASR,A,60+ years,Female, 733 
+Afghanistan,ASR,A,60+ years,Male, 931 
+Afghanistan,ASR,H,60+ years,Female, 1 
+Afghanistan,REF,A,0 - 4 years,Female, 159 
+Afghanistan,REF,A,0 - 4 years,Male, 147 
+Afghanistan,REF,A,12 - 17 years,Female, 325 
+Afghanistan,REF,A,12 - 17 years,Male, 376 
+Afghanistan,REF,A,18 - 59 years,Female," 1,135 "
+Afghanistan,REF,A,18 - 59 years,Male," 1,125 "
+Afghanistan,REF,A,5 - 11 years,Female, 325 
+Afghanistan,REF,A,5 - 11 years,Male, 351 
+Afghanistan,REF,A,60+ years,Female, 51 
+Afghanistan,REF,A,60+ years,Male, 71 
+Afghanistan,REF,H,12 - 17 years,Female, 1 
+Afghanistan,REF,H,12 - 17 years,Male, 2 
+Afghanistan,REF,H,18 - 59 years,Female, 6 
+Afghanistan,REF,H,18 - 59 years,Male, 6 
+Afghanistan,REF,H,60+ years,Male, 1 
+"Iran, Islamic Republic of",ASR,A,0 - 4 years,Female, 529 
+"Iran, Islamic Republic of",ASR,A,0 - 4 years,Male, 637 
+"Iran, Islamic Republic of",ASR,A,12 - 17 years,Female, 590 
+"Iran, Islamic Republic of",ASR,A,12 - 17 years,Male, 750 
+"Iran, Islamic Republic of",ASR,A,18 - 59 years,Female," 7,240 "
+"Iran, Islamic Republic of",ASR,A,18 - 59 years,Male," 12,830 "
+"Iran, Islamic Republic of",ASR,A,5 - 11 years,Female," 1,004 "
+"Iran, Islamic Republic of",ASR,A,5 - 11 years,Male," 1,083 "
+"Iran, Islamic Republic of",ASR,A,60+ years,Female, 152 
+"Iran, Islamic Republic of",ASR,A,60+ years,Male, 140 
+"Iran, Islamic Republic of",ASR,H,12 - 17 years,Female, 2 
+"Iran, Islamic Republic of",ASR,H,12 - 17 years,Male, 1 
+"Iran, Islamic Republic of",ASR,H,18 - 59 years,Female, 10 
+"Iran, Islamic Republic of",ASR,H,18 - 59 years,Male, 13 
+"Iran, Islamic Republic of",ASR,H,5 - 11 years,Female, 2 
+"Iran, Islamic Republic of",ASR,H,5 - 11 years,Male, 2 
+"Iran, Islamic Republic of",REF,A,0 - 4 years,Female, 167 
+"Iran, Islamic Republic of",REF,A,0 - 4 years,Male, 133 
+"Iran, Islamic Republic of",REF,A,12 - 17 years,Female, 229 
+"Iran, Islamic Republic of",REF,A,12 - 17 years,Male, 291 
+"Iran, Islamic Republic of",REF,A,18 - 59 years,Female," 2,489 "
+"Iran, Islamic Republic of",REF,A,18 - 59 years,Male," 3,156 "
+"Iran, Islamic Republic of",REF,A,5 - 11 years,Female, 316 
+"Iran, Islamic Republic of",REF,A,5 - 11 years,Male, 357 
+"Iran, Islamic Republic of",REF,A,60+ years,Female, 73 
+"Iran, Islamic Republic of",REF,A,60+ years,Male, 69 
+"Iran, Islamic Republic of",REF,H,12 - 17 years,Male, 1 
+"Iran, Islamic Republic of",REF,H,18 - 59 years,Female, 6 
+"Iran, Islamic Republic of",REF,H,18 - 59 years,Male, 5 
+"Iran, Islamic Republic of",REF,H,60+ years,Female, 1 
+Pakistan,ASR,A,0 - 4 years,Female, 9 
+Pakistan,ASR,A,0 - 4 years,Male, 12 
+Pakistan,ASR,A,12 - 17 years,Female, 14 
+Pakistan,ASR,A,12 - 17 years,Male, 14 
+Pakistan,ASR,A,18 - 59 years,Female, 60 
+Pakistan,ASR,A,18 - 59 years,Male," 1,017 "
+Pakistan,ASR,A,5 - 11 years,Female, 18 
+Pakistan,ASR,A,5 - 11 years,Male, 22 
+Pakistan,ASR,A,60+ years,Female, 1 
+Pakistan,ASR,A,60+ years,Male, 3 
+Pakistan,REF,A,0 - 4 years,Female, 4 
+Pakistan,REF,A,0 - 4 years,Male, 1 
+Pakistan,REF,A,12 - 17 years,Female, 4 
+Pakistan,REF,A,12 - 17 years,Male, 2 
+Pakistan,REF,A,18 - 59 years,Female, 12 
+Pakistan,REF,A,18 - 59 years,Male, 19 
+Pakistan,REF,A,5 - 11 years,Female, 4 
+Pakistan,REF,A,5 - 11 years,Male, 3 
+Pakistan,REF,A,60+ years,Male, 2 
+Unknown,ASR,A,0 - 4 years,Female, 1 
+Unknown,ASR,A,12 - 17 years,Male, 2 
+Unknown,ASR,A,18 - 59 years,Female, 1 
+Unknown,ASR,A,18 - 59 years,Male, 7 
+Unknown,ASR,A,5 - 11 years,Female, 1 
+Mongolia,ASR,A,0 - 4 years,Female, 2 
+Mongolia,ASR,A,0 - 4 years,Male, 1 
+Mongolia,ASR,A,12 - 17 years,Female, 2 
+Mongolia,ASR,A,12 - 17 years,Male, 1 
+Mongolia,ASR,A,18 - 59 years,Female, 31 
+Mongolia,ASR,A,18 - 59 years,Male, 39 
+Mongolia,ASR,A,5 - 11 years,Female, 1 
+Mongolia,ASR,A,5 - 11 years,Male, 1 
+None/Stateless,ASR,A,0 - 4 years,Male, 2 
+None/Stateless,ASR,A,12 - 17 years,Female, 4 
+None/Stateless,ASR,A,12 - 17 years,Male, 6 
+None/Stateless,ASR,A,18 - 59 years,Female, 12 
+None/Stateless,ASR,A,18 - 59 years,Male, 20 
+None/Stateless,ASR,A,5 - 11 years,Female, 2 
+None/Stateless,ASR,A,5 - 11 years,Male, 5 
+None/Stateless,REF,A,0 - 4 years,Female, 11 
+None/Stateless,REF,A,0 - 4 years,Male, 12 
+None/Stateless,REF,A,12 - 17 years,Female, 9 
+None/Stateless,REF,A,12 - 17 years,Male, 8 
+None/Stateless,REF,A,18 - 59 years,Female, 45 
+None/Stateless,REF,A,18 - 59 years,Male, 42 
+None/Stateless,REF,A,5 - 11 years,Female, 13 
+None/Stateless,REF,A,5 - 11 years,Male, 20 
+None/Stateless,REF,A,60+ years,Female, 4 
+None/Stateless,REF,A,60+ years,Male, 1 
+Benin,ASR,A,18 - 59 years,Female, 1 
+Benin,ASR,A,5 - 11 years,Male, 1 
+Burkina Faso,ASR,A,18 - 59 years,Female, 1 
+Cameroon,ASR,A,0 - 4 years,Female, 1 
+Cameroon,ASR,A,18 - 59 years,Female, 28 
+Cameroon,ASR,A,18 - 59 years,Male, 48 
+Cameroon,ASR,A,5 - 11 years,Female, 1 
+Cameroon,REF,A,12 - 17 years,Male, 2 
+Cameroon,REF,A,18 - 59 years,Female, 3 
+Cameroon,REF,A,18 - 59 years,Male, 5 
+Cameroon,REF,A,5 - 11 years,Male, 1 
+Central African Republic,ASR,A,18 - 59 years,Female, 1 
+Central African Republic,ASR,A,18 - 59 years,Male, 13 
+Chad,ASR,A,18 - 59 years,Male, 1 
+Cote d Ivoire,ASR,A,0 - 4 years,Female, 1 
+Cote d Ivoire,ASR,A,0 - 4 years,Male, 1 
+Cote d Ivoire,ASR,A,12 - 17 years,Male, 1 
+Cote d Ivoire,ASR,A,18 - 59 years,Female, 5 
+Cote d Ivoire,ASR,A,18 - 59 years,Male, 14 
+Cote d Ivoire,REF,A,0 - 4 years,Female, 1 
+Cote d Ivoire,REF,A,0 - 4 years,Male, 1 
+Cote d Ivoire,REF,A,18 - 59 years,Female, 4 
+Cote d Ivoire,REF,A,18 - 59 years,Male, 11 
+Gabon,ASR,A,18 - 59 years,Female, 1 
+Gabon,ASR,A,18 - 59 years,Male, 1 
+Gambia,ASR,A,18 - 59 years,Female, 1 
+Gambia,ASR,A,18 - 59 years,Male, 9 
+Ghana,ASR,A,18 - 59 years,Female, 3 
+Ghana,ASR,A,18 - 59 years,Male, 10 
+Guinea,ASR,A,18 - 59 years,Female, 1 
+Guinea,ASR,A,18 - 59 years,Male, 5 
+Guinea,REF,A,0 - 4 years,Female, 1 
+Guinea,REF,A,18 - 59 years,Female, 2 
+Guinea,REF,A,18 - 59 years,Male, 8 
+Guinea,REF,A,5 - 11 years,Male, 1 
+Liberia,ASR,A,18 - 59 years,Male, 5 
+Liberia,REF,A,0 - 4 years,Female, 1 
+Liberia,REF,A,18 - 59 years,Female, 1 
+Liberia,REF,A,18 - 59 years,Male, 1 
+Liberia,REF,A,5 - 11 years,Male, 1 
+Mali,ASR,A,0 - 4 years,Male, 1 
+Mali,ASR,A,18 - 59 years,Female, 6 
+Mali,ASR,A,18 - 59 years,Male, 17 
+Mali,REF,A,18 - 59 years,Male, 1 
+Niger,ASR,A,18 - 59 years,Female, 1 
+Niger,ASR,A,18 - 59 years,Male, 3 
+Nigeria,ASR,A,0 - 4 years,Female, 5 
+Nigeria,ASR,A,0 - 4 years,Male, 3 
+Nigeria,ASR,A,18 - 59 years,Female, 21 
+Nigeria,ASR,A,18 - 59 years,Male, 47 
+Nigeria,ASR,A,5 - 11 years,Female, 1 
+Nigeria,ASR,A,5 - 11 years,Male, 1 
+Nigeria,ASR,A,60+ years,Male, 1 
+Nigeria,REF,A,0 - 4 years,Female, 3 
+Nigeria,REF,A,0 - 4 years,Male, 1 
+Nigeria,REF,A,18 - 59 years,Female, 3 
+Nigeria,REF,A,18 - 59 years,Male, 2 
+Nigeria,REF,H,18 - 59 years,Male, 1 
+Nigeria,REF,H,5 - 11 years,Female, 1 
+Senegal,ASR,A,0 - 4 years,Female, 1 
+Senegal,ASR,A,0 - 4 years,Male, 1 
+Senegal,ASR,A,18 - 59 years,Female, 5 
+Senegal,ASR,A,18 - 59 years,Male, 15 
+Senegal,REF,A,0 - 4 years,Male, 1 
+Senegal,REF,A,18 - 59 years,Female, 1 
+Senegal,REF,A,18 - 59 years,Male, 1 
+Sierra Leone,ASR,A,0 - 4 years,Female, 1 
+Sierra Leone,ASR,A,18 - 59 years,Female, 2 
+Sierra Leone,ASR,A,18 - 59 years,Male, 19 
+Sierra Leone,REF,A,0 - 4 years,Male, 1 
+Sierra Leone,REF,A,18 - 59 years,Female, 1 
+Sierra Leone,REF,A,18 - 59 years,Male, 3 
+Togo,ASR,A,18 - 59 years,Male, 5 
+Togo,REF,A,18 - 59 years,Male, 1 
