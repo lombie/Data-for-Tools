@@ -92,10 +92,10 @@ Other Nationalities,REF,A,0 - 4 years,Male,2,1
 Other Nationalities,REF,A,0 - 4 years,Male,1,1
 Other Nationalities,ASR,A,0 - 4 years,Female,1,1
 Other Nationalities,ASR,A,0 - 4 years,Female,1,1
-Afghanistan,ASR,A,0 - 4 years,Female,4582,1
-Afghanistan,ASR,A,0 - 4 years,Male,4886,1
-Afghanistan,REF,A,0 - 4 years,Female,176,1
-Afghanistan,REF,A,0 - 4 years,Male,158,1
+Afghans,ASR,A,0 - 4 years,Female,4582,1
+Afghans,ASR,A,0 - 4 years,Male,4886,1
+Afghans,REF,A,0 - 4 years,Female,176,1
+Afghans,REF,A,0 - 4 years,Male,158,1
 Iranians,ASR,A,0 - 4 years,Female,538,1
 Iranians,ASR,A,0 - 4 years,Male,630,1
 Iranians,REF,A,0 - 4 years,Female,161,1
@@ -219,10 +219,10 @@ Other Nationalities,ASR,A,5 - 11 years,Male,1,2
 Other Nationalities,ASR,A,5 - 11 years,Male,1,2
 Other Nationalities,ASR,A,5 - 11 years,Female,1,2
 Other Nationalities,REF,A,5 - 11 years,Female,1,2
-Afghanistan,ASR,A,5 - 11 years,Female,7731,2
-Afghanistan,ASR,A,5 - 11 years,Male,8885,2
-Afghanistan,REF,A,5 - 11 years,Female,339,2
-Afghanistan,REF,A,5 - 11 years,Male,369,2
+Afghans,ASR,A,5 - 11 years,Female,7731,2
+Afghans,ASR,A,5 - 11 years,Male,8885,2
+Afghans,REF,A,5 - 11 years,Female,339,2
+Afghans,REF,A,5 - 11 years,Male,369,2
 Iranians,ASR,A,5 - 11 years,Female,1016,2
 Iranians,ASR,A,5 - 11 years,Male,1122,2
 Iranians,ASR,H,5 - 11 years,Female,2,2
@@ -331,14 +331,14 @@ Other Nationalities,ASR,A,12 - 17 years,Male,1,3
 Other Nationalities,REF,A,12 - 17 years,Female,1,3
 Other Nationalities,ASR,A,12 - 17 years,Female,3,3
 Other Nationalities,REF,A,12 - 17 years,Male,1,3
-Afghanistan,ASR,A,12 - 17 years,Female,4607,3
-Afghanistan,ASR,A,12 - 17 years,Male,6952,3
-Afghanistan,ASR,H,12 - 17 years,Female,1,3
-Afghanistan,ASR,H,12 - 17 years,Male,1,3
-Afghanistan,REF,A,12 - 17 years,Female,342,3
-Afghanistan,REF,A,12 - 17 years,Male,399,3
-Afghanistan,REF,H,12 - 17 years,Female,1,3
-Afghanistan,REF,H,12 - 17 years,Male,2,3
+Afghans,ASR,A,12 - 17 years,Female,4607,3
+Afghans,ASR,A,12 - 17 years,Male,6952,3
+Afghans,ASR,H,12 - 17 years,Female,1,3
+Afghans,ASR,H,12 - 17 years,Male,1,3
+Afghans,REF,A,12 - 17 years,Female,342,3
+Afghans,REF,A,12 - 17 years,Male,399,3
+Afghans,REF,H,12 - 17 years,Female,1,3
+Afghans,REF,H,12 - 17 years,Male,2,3
 Iranians,ASR,A,12 - 17 years,Female,607,3
 Iranians,ASR,A,12 - 17 years,Male,765,3
 Iranians,ASR,H,12 - 17 years,Female,2,3
@@ -529,14 +529,14 @@ Other Nationalities,ASR,A,18 - 59 years,Female,2,4
 Other Nationalities,ASR,A,18 - 59 years,Male,4,4
 Other Nationalities,REF,A,18 - 59 years,Female,4,4
 Other Nationalities,REF,A,18 - 59 years,Male,9,4
-Afghanistan,ASR,A,18 - 59 years,Female,22155,4
-Afghanistan,ASR,A,18 - 59 years,Male,73058,4
-Afghanistan,ASR,H,18 - 59 years,Female,1,4
-Afghanistan,ASR,H,18 - 59 years,Male,2,4
-Afghanistan,REF,A,18 - 59 years,Female,1186,4
-Afghanistan,REF,A,18 - 59 years,Male,1176,4
-Afghanistan,REF,H,18 - 59 years,Female,6,4
-Afghanistan,REF,H,18 - 59 years,Male,6,4
+Afghans,ASR,A,18 - 59 years,Female,22155,4
+Afghans,ASR,A,18 - 59 years,Male,73058,4
+Afghans,ASR,H,18 - 59 years,Female,1,4
+Afghans,ASR,H,18 - 59 years,Male,2,4
+Afghans,REF,A,18 - 59 years,Female,1186,4
+Afghans,REF,A,18 - 59 years,Male,1176,4
+Afghans,REF,H,18 - 59 years,Female,6,4
+Afghans,REF,H,18 - 59 years,Male,6,4
 Iranians,ASR,A,18 - 59 years,Female,7376,4
 Iranians,ASR,A,18 - 59 years,Male,12959,4
 Iranians,ASR,H,18 - 59 years,Female,12,4
@@ -647,12 +647,12 @@ Other Nationalities,ASR,A,60+ years,Male,5,5
 Other Nationalities,REF,A,60+ years,Female,2,5
 Other Nationalities,REF,A,60+ years,Male,1,5
 Other Nationalities,ASR,A,60+ years,Male,2,5
-Afghanistan,ASR,A,60+ years,Female,746,5
-Afghanistan,ASR,A,60+ years,Male,947,5
-Afghanistan,ASR,H,60+ years,Female,1,5
-Afghanistan,REF,A,60+ years,Female,51,5
-Afghanistan,REF,A,60+ years,Male,73,5
-Afghanistan,REF,H,60+ years,Male,1,5
+Afghans,ASR,A,60+ years,Female,746,5
+Afghans,ASR,A,60+ years,Male,947,5
+Afghans,ASR,H,60+ years,Female,1,5
+Afghans,REF,A,60+ years,Female,51,5
+Afghans,REF,A,60+ years,Male,73,5
+Afghans,REF,H,60+ years,Male,1,5
 Iranians,ASR,A,60+ years,Female,160,5
 Iranians,ASR,A,60+ years,Male,142,5
 Iranians,REF,A,60+ years,Female,73,5
